@@ -1,19 +1,19 @@
 body {
   background-color: #050505;
-  color: white;
+  color: #C7DDFF;
   margin-top: 100px;
   margin-bottom: 100px;
   margin-right: 300px;
   margin-left: 300px;
-    font-family: helvetica;
+    font-family: Poppins;
 }
 
 h1 {
-  color: #FF7149;
+  color: #FF7A30;
 }
 
 p {
-  color: white
+  color: white;
 }
 
 ul {
@@ -21,8 +21,8 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: black;
-  border-color: #bbc9db;
+  background-color: #C7DDFF;
+  border-color: #032A75;
   border-style: double;
   border-width: medium;
 
@@ -35,11 +35,11 @@ li {
 
 li a {
   display: block;
-  color: #FF7149;
+  color: #032A75;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
-  font-family: helvetica;
+  font-family: poppins;
 
 }
 
@@ -56,5 +56,5 @@ li a:hover {
 }
 
 #link {
-  color: #BBC9DB
+  color: #0066FF
 }

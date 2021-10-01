@@ -3,7 +3,16 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #1B9AAA;
+  background-color: #C7DDFF;
+  border-color: #032A75;
+  border-style: double;
+  border-width: medium;
+
+}
+
+h1 {
+  color: #C7DDFF;
+  text-align: center;
 
 }
 
@@ -14,11 +23,11 @@ li {
 
 li a {
   display: block;
-  color: black;
+  color: #0066FF;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
-  font-family: helvetica;
+  font-family: poppins;
 
 }
 
@@ -27,7 +36,153 @@ li a:hover {
 }
 
 body {
-  background-color: #ADD8E6;
   margin: 100px;
-  font-family: helvetica;
+  font-family: poppins;
+  background-color: #050505;
+  color: #032A75;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 300px;
+  margin-left: 300px;
+}
+
+h2 {
+  color: #0066FF;
+}
+
+h3 {
+  color: #0066FF;
+}
+
+#mtnpic {
+  float: right;
+  position: relative;
+  top: -70px;
+  width: 30vw;
+}
+
+#MountainLocation {
+  margin-top: 200px;
+  margin-bottom: 100px;
+  border: solid;
+  border-color: #032A75;
+  background-color: #C7DDFF;
+}
+
+#MountainLocation h2 {
+  margin-left: 20px;
+}
+
+#MountainLocation p {
+  padding: 0px 20px 150px 20px;
+}
+
+#MountainStatistics {
+  margin-top: 300px;
+  border: solid;
+  background-color: #C7DDFF;
+  border-color: #032A75;
+}
+
+#MountainStatistics h2 {
+  margin-left: 20px;
+}
+
+#MountainStatistics p {
+  margin-left: 20px;
+}
+
+
+
+#MountainHighlights {
+  margin-top: 200px;
+}
+
+#coppermap {
+  float: right;
+  position: relative;
+  top: -460px;
+  margin-right: 20px;
+  width: 25vw;
+}
+
+#terrainpark {
+  margin-left: 500px;
+  margin-right: 20px;
+  float: right;
+  position: relative;
+  top: -250px;
+  width: 30vw;
+}
+
+#skierimg {
+  float: right;
+  position: relative;
+  top: -300px;
+  margin-right: 20px;
+  width: 35vw;
+
+}
+
+
+#diverseterrain {
+  margin-top: 200px;
+  margin-bottom: 100px;
+  border: solid;
+  border-color: #032A75;
+  background-color: #C7DDFF;}
+
+#diverseterrain p {
+  padding: 0px 20px 150px 20px;
+  margin-right: 650px;
+}
+
+#diverseterrain h3 {
+  color: #0066FF;
+  margin-left: 20px;
+}
+
+
+#nationallyrecgonizedpark {
+  margin-top: 200px;
+  margin-bottom: 100px;
+  border: solid;
+  border-color: #032A75;
+  background-color: #C7DDFF;
+}
+
+#nationallyrecgonizedpark h3 {
+  margin-left: 20px;
+  color: #0066FF;
+}
+
+#nationallyrecgonizedpark p {
+  margin-left: 20px;
+  margin-right: 600px;
+}
+
+
+#family {
+  float: right;
+  position: relative;
+  top: -360px;
+  width: 30vw;
+}
+
+#familyfriendly {
+  margin-top: 200px;
+  margin-bottom: 100px;
+  border: solid;
+  border-color: #032A75;
+  background-color: #C7DDFF;
+}
+
+#familyfriendly p {
+  padding: 0px 20px 150px 20px;
+  margin-right: 650px;
+}
+
+#familyfriendly h3 {
+  color: #0066FF;
+  margin-left: 20px;
 }
